@@ -26,6 +26,6 @@ bot = telebot.TeleBot('-------') #Здесь  нужен ТОКЕН Телегр
 
 ### To see the working commands of the bot, type "/start"
 >Attention! The bot will not start working until you manually enter the "запустить отслеживание" command
->Далее код начинает работать и любой пользователь может подключиться к рассылке и отключиться от неё. Отключить отслеживание можно только при помощи остановки исполнения кода.
+>Then the code starts working and any user can connect to the newsletter and disconnect from it. You can disable tracking only by stopping code execution.
 
 
