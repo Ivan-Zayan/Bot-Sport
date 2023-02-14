@@ -24,7 +24,7 @@ bot = telebot.TeleBot('-------') #Здесь  нужен ТОКЕН Телегр
 >For the selenium framework to work correctly, you must install the Firefox browser
 ---
 
-###To see the working commands of the bot, type "/start"
+### To see the working commands of the bot, type "/start"
 >Attention! The bot will not start working until you manually enter the "запустить отслеживание" command
 >Далее код начинает работать и любой пользователь может подключиться к рассылке и отключиться от неё. Отключить отслеживание можно только при помощи остановки исполнения кода.
 
